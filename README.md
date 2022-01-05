@@ -1,5 +1,7 @@
 # ARM LEGv8 CPU
 
+LEGv8 is a simple version of ARMv8 defined and used in the book Computer Organization and Design - The Hardware/Software Interface ARM Edition by David A. Patterson and John L. Hennessy.
+
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/nextseto/ARM-LEGv8/master/LICENSE)
 
 This repository contains the source code for an ARM LEGv8 CPU written in Verilog.
