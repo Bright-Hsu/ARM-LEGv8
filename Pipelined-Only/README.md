@@ -127,7 +127,7 @@ The thirteen instructions as shown in the table below is the test program used t
 |   12   | `STUR x5, [x7, #1]` | 1111 1000 0000 0000 0001 0000 1110 0101 | 0xf80010e5 |
 |   13   | `AND x3, x2, x10`   | 1000 1010 0000 1010 0000 0000 0100 0011 | 0x8a0a0043 |
 |   14   | `ORR x21, x25, x24` | 1010 1010 0001 1000 0000 0011 0011 0101 | 0xaa180335 |
-|   15   | `B #-8`             | 0001 0100 0000 0000 0000 0000 0001 0100 | 0x17fffff8 |
+|   15   | `B #-8`             | 0001 0111 1111 1111 1111 1111 1111 0100 | 0x17fffff8 |
 
 ## Test Program (Registers and Data Memory Setup)
 
